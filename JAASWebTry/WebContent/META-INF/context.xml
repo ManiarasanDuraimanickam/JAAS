@@ -1,0 +1,3 @@
+<Context antiJARLocking="true" path="" reloadable="true">
+    <Realm appName="CustomLogin" className="org.apache.catalina.realm.JAASRealm" roleClassNames="com.security.jaas.user.RolePrincipal" userClassNames="com.security.jaas.user.UserPrincipal"/>
+</Context>
